@@ -13,3 +13,4 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ![Screenshot](public/images/tech_blog_sam.png)    
 
 ## Deployed Heroku link
+https://sleepy-sea-11786.herokuapp.com/
